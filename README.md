@@ -3,8 +3,11 @@ I recently graduated from University of Prizren as a Software Engineer and am in
 
 - 👀 I’m interested in anything programming such as:
   - Web Development ( Full Stack )
-  - Compilers, Game development and Operating Systems
+  - Compilers, 
+  - Game development 
+  - Operating Systems
   - Cyersecurity
+
 - 🌱 I’m currently learning full stack web development with nodejs and react
 - 💞️ I’m looking to collaborate on projects about systems, compilers, software tools, backend systems etc.
 - 📫 You can reach me via email at bashaalixhan@gmail.com
