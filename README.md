@@ -1,18 +1,24 @@
 # 👋 Hi, I’m Alixhan Basha
-I recently graduated from University of Prizren as a Software Engineer and am interested in many different programming topics.
+I've graduated from University of Prizren as a Bachelor in Software Engineering and am interested in many different programming topics.
 
-- 👀 I’m interested in anything programming such as:
+I worked as a full-stack dev, QA, QAA and more recently as a QA lead. 
+In my free time I like to expand my programming knowledge.
+
+Things I am proud of:
+- I created a [scripting language](https://github.com/alixhanbasha/ALP) that has an Albanian syntax
+- I am a coauthor of a [paper](https://www.sciencedirect.com/science/article/pii/S2405896319325029) related to machine learning
+- I am a co-founder of SpaceED NGO
+
+Things I am interested in:
+  - QA and Java Automation
   - Web Development ( Full Stack )
   - Compilers, 
-  - Game development 
   - Operating Systems
+  - Game development 
   - Cyersecurity
 
-- 🌱 I’m currently learning full stack web development with nodejs and react
+Editor of choice: [doom](https://github.com/doomemacs)
+
+- 🌱 I’m currently working as a QA Automation Engineer / QA Lead 
 - 💞️ I’m looking to collaborate on projects about systems, compilers, software tools, backend systems etc.
 - 📫 You can reach me via email at bashaalixhan@gmail.com
-
-<!---
-hashbang404/hashbang404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
