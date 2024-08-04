@@ -5,7 +5,7 @@ I worked as a full-stack dev, QA, QAA and more recently as a QA lead.
 In my free time I like to expand my programming knowledge.
 
 Things I am proud of:
-- I created a [scripting language](https://github.com/alixhanbasha/ALP) that has an Albanian syntax
+- I created a [scripting language](https://github.com/alixhanbasha/ALP) that's in Albanian.
 - I am a coauthor of a [paper](https://www.sciencedirect.com/science/article/pii/S2405896319325029) related to machine learning
 - I am a co-founder of SpaceED NGO
 
