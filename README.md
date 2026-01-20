@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alixhan Basha
+# 👋 Hi, I’m AliXhan Basha
 I've graduated from University of Prizren as a Bachelor in Software Engineering and am interested in many different programming topics.
 
 I worked as a full-stack dev, QA, QAA and more recently as a QA lead. 
@@ -17,8 +17,5 @@ Things I am interested in:
   - Game development 
   - Cyersecurity
 
-Editor of choice: [doom](https://github.com/doomemacs)
-
-- 🌱 I’m currently working as a QA Automation Engineer / QA Lead 
 - 💞️ I’m looking to collaborate on projects about systems, compilers, software tools, backend systems etc.
 - 📫 You can reach me via email at bashaalixhan@gmail.com
